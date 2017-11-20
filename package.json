@@ -1,0 +1,16 @@
+{
+  "name": "tracker",
+  "version": "0.0.1",
+  "description": "Real time site analytics",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
